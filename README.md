@@ -1,24 +1,7 @@
-# README
+# Warmup: Sending Params with RestClient
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a warmup exercise taken from the basic routes, views, and controllers lesson from [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers). It was completed as part of the Microverse curriculum.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Technology Used
+ * Ruby
+ * Rails
